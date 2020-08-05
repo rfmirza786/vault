@@ -13,7 +13,7 @@ public class DataTypes {
 		//data types	
 		
 		byte b = 10;
-			b = 20;
+			 b = 20;
 		byte b1 =0;
 		byte b2 =-1;
 		
@@ -21,13 +21,7 @@ public class DataTypes {
 		System.out.println(b2+b);
 		
 		
-		
-		
-		
-		
-		
-		
-		
+			
 	}
 
 }
